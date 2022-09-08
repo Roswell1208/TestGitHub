@@ -52,3 +52,5 @@ endsolid
 ```
 
 > En réalité virtuelle, on intègrerait cet objet 3D dans un environnement virtuel. Tandis qu'en réalité augmentée, on intègrerait cet objet 3D dans un environnement réel. Exemple de réalité augmentée sur le jeu PokémonGo :
+
+![](https://imgs.search.brave.com/8rdLrIq4HlLSoTTvjAtCktR2eKXUocWyntT0bsD76Hg/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/aW1vcmUuY29tL3Np/dGVzL2ltb3JlLmNv/bS9maWxlcy9zdHls/ZXMveGxhcmdlX3dt/X2Jydy9wdWJsaWMv/ZmllbGQvaW1hZ2Uv/MjAxNy8xMi9hcnBs/dXMtdG9yY2hpYy1o/ZXJvLmpwZw)
