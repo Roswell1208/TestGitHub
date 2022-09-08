@@ -16,3 +16,41 @@ La réalité augmentée ajoute des éléments virtuels dans un environnement ré
 | Réalité Virtuelle | Réalité Augmentée |
 | --- | --- |
 | Créé un monde virtuel dans un environnement virtuel | Créé un monde virtuel dans un environnement réel |
+
+
+```stl
+solid cube_corner
+  facet normal 0.0 -1.0 0.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 1.0 0.0 0.0
+      vertex 0.0 0.0 1.0
+    endloop
+  endfacet
+  facet normal 0.0 0.0 -1.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 0.0 1.0 0.0
+      vertex 1.0 0.0 0.0
+    endloop
+  endfacet
+  facet normal -1.0 0.0 0.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 0.0 0.0 1.0
+      vertex 0.0 1.0 0.0
+    endloop
+  endfacet
+  facet normal 0.577 0.577 0.577
+    outer loop
+      vertex 1.0 0.0 0.0
+      vertex 0.0 1.0 0.0
+      vertex 0.0 0.0 1.0
+    endloop
+  endfacet
+endsolid
+```
+
+> En réalité virtuelle, on intègrerait cet objet 3D dans un environnement virtuel. Tandis qu'en réalité augmentée, on intègrerait cet objet 3D dans un environnement réel. Exemple de réalité augmentée sur le jeu PokémonGo :
+
+![](https://imgs.search.brave.com/8rdLrIq4HlLSoTTvjAtCktR2eKXUocWyntT0bsD76Hg/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/aW1vcmUuY29tL3Np/dGVzL2ltb3JlLmNv/bS9maWxlcy9zdHls/ZXMveGxhcmdlX3dt/X2Jydy9wdWJsaWMv/ZmllbGQvaW1hZ2Uv/MjAxNy8xMi9hcnBs/dXMtdG9yY2hpYy1o/ZXJvLmpwZw)
