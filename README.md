@@ -9,3 +9,10 @@ L'expression « **réalité virtuelle** » (ou multimédia immersif ou réalité
 La réalité augmentée ajoute des éléments virtuels dans un environnement réel alors que la réalité virtuelle créé virtuellement un environnement réel ou imaginaire.
 
 ![](https://imgs.search.brave.com/4ned_UDtS4J66OA3tpiRMZ2ONBQ4ANUGlUIt1g7j8lw/rs:fit:1170:650:1/g:ce/aHR0cHM6Ly93d3cu/b21uaW5ub3YuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE2/LzA2L2hvbG9sZW5z/LTNkLWNvcGllLTEx/NzB4NjUwLmpwZw)
+
+
+## Différence entre la réalité virtuelle et la réalité augmentée :
+
+| Réalité Virtuelle | Réalité Augmentée |
+| --- | --- |
+| Créé un monde virtuel dans un environnement virtuel | Créé un monde virtuel dans un environnement réel |
