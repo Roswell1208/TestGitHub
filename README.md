@@ -50,3 +50,5 @@ solid cube_corner
   endfacet
 endsolid
 ```
+
+> En réalité virtuelle, on intègrerait cet objet 3D dans un environnement virtuel. Tandis qu'en réalité augmentée, on intègrerait cet objet 3D dans un environnement réel. Exemple de réalité augmentée sur le jeu PokémonGo :
